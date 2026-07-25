@@ -1,0 +1,83 @@
+site_name: Way-to-Zion
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - search
+  - with-pdf:
+      output_path: pdf/book.pdf
+      cover_title: "Way to Zion"
+      cover_subtitle: "Christ fulfills the Mercy Seat, opens access to the Holy of Holies, and leads God's people from hearing to seeing"
+      author: "Luke1128"
+      toc_title: "Table of Contents"
+      toc_level: 1
+      enable_heading_numbering: false
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+nav:
+  - Feedback / Issues: https://github.com/u0003193/Way2Zion/issues
+  - To Do: todo.md
+  - Home: index.md
+  - Introduction:
+      - "The Lost Way to Zion": introduction-the-lost-way-to-zion.md
+  - "Part I: Created for Communion":
+      - "Chapter 1: The Name of Jesus and the Throne-Ladder Mystery": chapter-1-the-name-of-jesus-and-the-throne-ladder-mystery.md
+      - "Chapter 2: Christ the Hermeneutical Key": chapter-2-christ-the-hermeneutical-key.md
+      - "Chapter 3: The Spirit as Formative Power": chapter-3-the-spirit-as-formative-power.md
+      - "Chapter 4: Biblical Anthropology, Image, Person, Nature, and the Nous": chapter-4-biblical-anthropology-image-person-nature-and-the-nous.md
+      - "Excursus: Attention, Desire, and the Nous According to Maximus": chapter-4-excursus-attention-desire-and-the-nous-according-to-maximus.md
+      - "Chapter 5: Telos, Covenantal Love, and Communion": chapter-5-telos-covenantal-love-and-communion.md
+      - "Chapter 6: God Speaks, We Hear, We Obey": chapter-6-god-speaks-we-hear-we-obey.md
+      - "Excursus: Hypostatic Attitude": chapter-6-excursus-hypostatic-attitude.md
+  - "Part II: The Mercy Seat Pattern - Redemption for Communion":
+      - "Chapter 7: Covenant, Presence, and Liturgy as One Fabric": chapter-7-covenant-presence-liturgy-as-one-fabric.md
+      - "Excursus: Passover, Covenant, and Atonement as One Fabric": chapter-7-excursus-passover-covenant-atonement-as-one-fabric.md
+      - "Chapter 8: Passover, Redemption for Communion": chapter-8-passover-redemption-for-communion.md
+      - "Chapter 9: Sinai, A People Formed by Divine Speech": chapter-9-sinai-a-people-formed-by-divine-speech.md
+      - "Chapter 10: Ten Words Beneath the Mercy Seat": chapter-10-ten-words-beneath-the-mercy-seat.md
+      - "Chapter 11: There I Will Meet With You and Speak With You": chapter-11-there-i-will-meet-with-you-and-speak-with-you.md
+      - "Chapter 12: Liturgical Grammar, Lamp, Table, Incense, Altar, Water": chapter-12-liturgical-grammar-lamp-table-incense-altar-water.md
+      - "Chapter 13: Day of Atonement, Access, Presence, and Communion": chapter-13-day-of-atonement-access-presence-and-communion.md
+  - "Part III: The Loss and Promise of Communion":
+      - "Chapter 14: Eden as Proto-Temple": chapter-14-eden-as-proto-temple.md
+      - "Chapter 15: Zion and the Ark": chapter-15-zion-and-the-ark.md
+      - "Chapter 16: Departure of Glory, Exile, and Prophetic Hope": chapter-16-departure-of-glory-exile-and-prophetic-hope.md
+  - "Part IV: Christ Fulfills the Mercy Seat":
+      - "Chapter 17: The Word Tabernacled Among Us": chapter-17-the-word-tabernacled-among-us.md
+      - "Chapter 18: Do This in Anamnesis of Me": chapter-18-do-this-in-anamnesis-of-me.md
+      - "Chapter 19: Veil Torn, Access for All": chapter-19-veil-torn-access-for-all.md
+      - "Chapter 20: Christ, Passover, Priest, Sacrifice, Covenant, Mercy Seat": chapter-20-christ-passover-priest-sacrifice-covenant-mercy-seat.md
+      - "Chapter 21: Resurrection, Ascension, Heavenly Enthronement, and Lord's Day": chapter-21-resurrection-ascension-heavenly-enthronement-and-lords-day.md
+      - "Excursus: Already and Not Yet": chapter-21-excursus-already-and-not-yet.md
+  - "Part V: Communion and Participation":
+      - "Chapter 22: Union With Christ, the Ontological Basis for Communion": chapter-22-union-with-christ-the-ontological-basis-for-communion.md
+      - "Chapter 23: Adoption and Communion": chapter-23-adoption-and-communion.md
+      - "Chapter 24: Pentecost and the Indwelling Presence": chapter-24-pentecost-and-the-indwelling-presence.md
+      - "Chapter 25: Abiding in the Vine": chapter-25-abiding-in-the-vine.md
+  - "Part VI: Communion, Hearing, and the Renewal of the Nous":
+      - "Chapter 26: Liturgy From Above, Heavenly Participation, and the Hearing Church": chapter-26-liturgy-from-above-heavenly-participation-and-the-hearing-church.md
+      - "Chapter 27: The Theology of Throne-Room Participation": chapter-27-the-theology-of-throne-room-participation.md
+      - "Chapter 28: Divine Speech in Communion": chapter-28-divine-speech-in-communion.md
+      - "Chapter 29: The Renewed Nous": chapter-29-the-renewed-nous.md
+      - "Chapter 30: Humility as the Fruit of Hearing": chapter-30-humility-as-the-fruit-of-hearing.md
+  - "Part VII: Transformation, Humility, and Self-Offering":
+      - "Chapter 31: Royal Priesthood": chapter-31-royal-priesthood.md
+      - "Excursus: Priesthood of All Believers and Ordained Ministry": chapter-31-excursus-priesthood-of-all-believers-and-ordained-ministry.md
+      - "Chapter 32: Leviticus Fulfilled": chapter-32-leviticus-fulfilled.md
+      - "Chapter 33: The Architecture of Obedience": chapter-33-the-architecture-of-obedience.md
+  - "Part VIII: The Church as Communion Community":
+      - "Chapter 34: Church as Covenant-Temple": chapter-34-church-as-covenant-temple.md
+      - "Chapter 35: Heavenly Liturgy": chapter-35-heavenly-liturgy.md
+      - "Chapter 36: Patristic Witness to Participation": chapter-36-patristic-witness-to-participation.md
+      - "Chapter 37: The Ordo, Word, Table, Prayer": chapter-37-the-ordo-word-table-prayer.md
+  - "Part IX: The Liturgy After the Liturgy":
+      - "Chapter 38: Prayer, Interior Participation": chapter-38-prayer-interior-participation.md
+      - "Chapter 39: Daily Life, Ordinary Participation": chapter-39-daily-life-ordinary-participation.md
+      - "Chapter 40: Households, Domestic Participation": chapter-40-households-domestic-participation.md
+      - "Chapter 41: Vocation and Mercy, Social Participation": chapter-41-vocation-and-mercy-social-participation.md
+      - "Chapter 42: Suffering, Participatory Endurance": chapter-42-suffering-participatory-endurance.md
+  - Coda:
+      - "From Hearing to Seeing": coda-hearing-becomes-seeing.md
