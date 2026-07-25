@@ -1,6 +1,4 @@
 site_name: Way-to-Zion
-extra_css:
-  - stylesheets/extra.css
 plugins:
   - search
   - with-pdf:
@@ -22,7 +20,7 @@ nav:
   - To Do: todo.md
   - Home: index.md
   - Introduction:
-      - "The Lost Way to Zion": introduction-the-lost-way-to-zion.md
+      - "The Lost Way to Zion": docs/introduction-the-lost-way-to-zion.md
   - "Part I: Created for Communion":
       - "Chapter 1: The Name of Jesus and the Throne-Ladder Mystery": chapter-1-the-name-of-jesus-and-the-throne-ladder-mystery.md
       - "Chapter 2: Christ the Hermeneutical Key": chapter-2-christ-the-hermeneutical-key.md
